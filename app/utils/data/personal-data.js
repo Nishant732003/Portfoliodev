@@ -3,7 +3,7 @@ export const personalData = {
   profile: "/profile.jpg",
   designation: "Software Enthusiast",
   description:
-    "My name is Nishnat Raj. I am 4th Year Undergrad from IIIT Trichy . I have a keen  interest in Problem Solving and Web Devlopment. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies.I am available for any kind of job opportunity that suits my skills and interests.",
+    "My name is Nishant Raj. I am 4th Year Undergrad from IIIT Trichy . I have a keen  interest in Problem Solving and Web Devlopment. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies.I am available for any kind of job opportunity that suits my skills and interests.",
   email: "mahtonishantraj@gmail.com",
   phone: "+91 7490060000",
   address: "Railway Colony, Gandhidham,Gujarat,India - 370201 ",
