@@ -30,7 +30,7 @@ export const projects = [
     tags: ["React", "SCSS", "Javascript", "Redux", "Tailwind"],
     category: "Frontend",
     github: "https://github.com/Nishant732003/Movix",
-    webapp: "movix-theta-opal.vercel.app",
+    webapp: "https://movix-theta-opal.vercel.app/",
   },
   {
     id: 3,
@@ -65,7 +65,7 @@ export const projects = [
     tags: ["HTML", "CSS", "Javascript", "Bootstarp"],
     category: "Frontend",
     github: "https://github.com/Nishant732003/Social-Media",
-    webapp: "nishant732003.github.io/Social-Media/",
+    webapp: "https://nishant732003.github.io/Social-Media/",
   },
   {
     id: 6,
