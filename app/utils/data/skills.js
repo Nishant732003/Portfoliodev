@@ -12,4 +12,5 @@ export const skillsData = [
   "Git",
   "Bootstrap",
   "MaterialUI",
+  "Firebase"
 ];
